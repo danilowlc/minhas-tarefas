@@ -1,5 +1,5 @@
 import BarraLateral from './containers/BarraLAteral'
-import ListaDeTarefas from './containers/BarraLAteral/ListaDeTarefas'
+import ListaDeTarefas from './containers/ListaDeTarefas'
 import EstiloGlocal, { Container } from './styles'
 
 function App() {
