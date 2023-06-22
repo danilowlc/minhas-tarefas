@@ -12,7 +12,7 @@ const tarefas = [
     titulo: 'Pagar COSERN',
     decrisao: 'Pagar COSERN ate o dia 23/06',
     prioridade: 'urgente',
-    status: 'concluida'
+    status: 'concluída'
   },
   {
     titulo: 'Estudar Python',
